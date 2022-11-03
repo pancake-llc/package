@@ -8,5 +8,5 @@ Add the lines below to `Packages/manifest.json`
 
 for version x.x.x
 ```csharp
-"package name": "path version",
+"com.pancake.packagename": "https://github.com/pancake-llc/packagename.git?path=Assets/_Root#x.x.x",
 ```
