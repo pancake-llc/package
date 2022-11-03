@@ -1,5 +1,5 @@
 # What
-- Template use for setting you need for create upm 
+- Template use for setup setting you need for create unity package
 
 
 # How To Install
